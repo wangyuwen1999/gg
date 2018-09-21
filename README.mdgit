@@ -1,0 +1,1 @@
+# gg initgit add README.mdgit commit -m first commitgit remote add origin https://github.com/wangyuwen1999/gg.gitgit push -u origin master
